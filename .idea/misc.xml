@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/JickbangCopy_20210820/app/src/main/res/layout/activity_spla.xml" value="0.22685185185185186" />
         <entry key="..\:/JickbangCopy_20210820/app/src/main/res/layout/activity_view_room_deatail.xml" value="0.31979166666666664" />
         <entry key="..\:/JickbangCopy_20210820/app/src/main/res/layout/room_list_item.xml" value="0.334375" />
         <entry key="..\:/Users/NePPPlus_Teacher_01/AndroidStudioProjects/JickbangCopy_20210820/app/src/main/res/layout/activity_main.xml" value="0.33" />
@@ -10,7 +11,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
